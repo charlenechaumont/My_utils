@@ -20,7 +20,7 @@ if(isset($_GET['supprimer_tache'])) {
  
 ?>
  
-<link rel="stylesheet" href=".css"/>
+<link rel="stylesheet" href="mytodolist.css"/>
  
 <html>
 <head>
