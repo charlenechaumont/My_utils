@@ -1,12 +1,12 @@
 .header{
     width : 600px;
     margin : 0 auto;
-    background-color : green;
+    background-color : palevioletred;
     height : 60px;
 }
  
 .header_titre {
-    color : white;
+    color : black;
     text-align : center;
     margin-bottom : -20px;
     font-size : 28px;
@@ -29,26 +29,26 @@ body {
 }
  
 #envoyer {
-    background-color : green;
+    background-color : pink;
     height : 45px;
 }
  
  
 .taches {
     width : 600px;
-    border: 1px solid green;
+    border: 1px solid plum;
     margin : 0 auto;
     margin-top : 30px;
     border-collapse : collapse
 }
  
 th {
-    border: 1px solid green;
+    border: 1px solid purple;
     padding : 10px;
 }
  
 td {
-    border : 1px solid green;
+    border : 1px solid papayawhip;
     text-align : center;
     padding : 10px;
 }
